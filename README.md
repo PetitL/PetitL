@@ -1,5 +1,5 @@
 # Introduction 👨‍🦰
-Hello, My name is **[PetitL](https://en.wikipedia.org/wiki/Leviathan)** (He/Him). I am from **[France](https://en.wikipedia.org/wiki/France)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/840px-Flag_of_Nepal.svg.png" height="15" width="15" title=":flag_np:" />.
+Hello, My name is **[PetitL](https://en.wikipedia.org/wiki/Leviathan)** (He/Him). I am from **[France](https://en.wikipedia.org/wiki/France)** <img src="https://static.wikia.nocookie.net/cyberpunk/images/9/92/Drapeau_de_la_France.png/revision/latest?cb=20201108180418&path-prefix=fr" height="15" width="15" title=":flag_np:" />.
 
 # Links 📎
 - **[Discord](https://discord.gg/kwQb2CeRam)**
