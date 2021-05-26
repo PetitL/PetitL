@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Links 📎
+- **[Discord](https://discord.gg/kwQb2CeRam)**
+- **[Twitter](https://twitter.com/PetitL7)**
+- **[Website]()**
+
 # GitHub Stats 💻
 
 ![PetitL](https://github-readme-stats.vercel.app/api?username=PetitL&show_icons=true&theme=tokyonight&hide=["issues"])
